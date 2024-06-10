@@ -6,7 +6,12 @@
 }
 body {text-align: center;}
 
-html {
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
   background: url(https://raw.githubusercontent.com/tamagotchiponchik/swaggah/main/back.png) no-repeat center center;
   min-height: 100%;
   background-size: cover;
