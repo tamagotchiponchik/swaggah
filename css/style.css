@@ -7,7 +7,7 @@
 body {text-align: center;}
 
 html {
-  background: url(back.png) no-repeat center center;
+  background: url(main/back.png) no-repeat center center;
   min-height: 100%;
   background-size: cover;
 
